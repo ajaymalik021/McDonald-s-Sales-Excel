@@ -4,7 +4,7 @@
 This project focuses on creating an interactive and dynamic dashboard in Excel using McDonald’s sales data. The dashboard provides insights into sales performance, item popularity, customer preferences, and time-based trends. It enables easy exploration of data and actionable business insights.
 
 ---
-##Dataset Link: Dataset
+Dataset Link: https://drive.google.com/file/d/1yjyozaSrwShoaROq-TDuSgC5HNLLmrTE/view?usp=sharing
 ---
 
 ## Key Objectives
